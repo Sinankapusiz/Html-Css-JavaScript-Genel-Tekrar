@@ -4,10 +4,10 @@ Html Nedir?
     Web sayfaları için standart işaretleme dilidir.
 
 Html 5 Deklerasyon Tanımlaması Nasıl Yapılır?
-    "<!DOCTYPE html>" Şeklinde html 5 tanımlaması yapılır.
+    '<!DOCTYPE html>' Şeklinde html 5 tanımlaması yapılır.
 
 Html İskeleti(En Temel Hali)
-    <!DOCTYPE html>
+    '<!DOCTYPE html>'
         <head>
             <title>Sayfa Başlığı</title>
         </head>
